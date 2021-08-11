@@ -1,0 +1,13 @@
+.header-main{
+    background-color: #ffffff;
+    font-size: 2rem;
+    font-weight: 400;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    box-shadow: rgba(3, 4, 5, 0.1) 0px 10px 10px -10px;
+    &>div{
+        margin-left: 1rem;
+    }
+}
